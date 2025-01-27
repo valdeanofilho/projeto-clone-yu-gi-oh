@@ -10,3 +10,8 @@ Utilizamos HTML e CSS inicialmente, e depois adicionamos o Javascript para termo
 - HTML
 - CSS
 - Javascript
+
+<div style="display: flex; gap: 10px;">
+  <img src="./src/images/desktop.gif" height="300" alt="gif da tela inicial do projeto"/>
+  <img src="./src/images/mobile.png" height="300" alt="tela inicial no mobile"/>
+</div>
