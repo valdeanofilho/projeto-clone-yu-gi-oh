@@ -1,4 +1,4 @@
-# Projeto clone Yu-Gi-Oh!
+# Projeto clone Yu-Gi-Oh! 
 
 Projeto criado na imersão front-end dos gêmeos @DevemDobro no evento "Semana do Zero ao Programador contratado", onde mais uma vez tivemos um tema bem especial, pois remete um pouco da nossa infância, gerando uma nostalgia de quando ligávamos a TV para assistir Yu-Gi-Oh!
 
